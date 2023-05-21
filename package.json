@@ -9,15 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@types/node": "20.2.1",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
+    "add": "^2.0.6",
     "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "global": "^4.4.0",
+    "isomorphic-unfetch": "^4.0.2",
     "next": "13.4.2",
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
     "tailwindcss": "3.3.2",
-    "typescript": "5.0.4"
+    "typescript": "5.0.4",
+    "vercel": "^29.3.6"
+  },
+  "devDependencies": {
+    "@types/react-slick": "^0.23.10"
   }
 }
